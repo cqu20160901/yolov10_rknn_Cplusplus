@@ -56,5 +56,7 @@ int main(int argc, char **argv)
 ![image](https://github.com/cqu20160901/yolov10_rknn_Cplusplus/assets/22290931/27f478b1-c99a-4e55-9d8e-228e1dc9fe66)
 
 
+# 导出onnx 参考
+[【yolov10 瑞芯微RKNN、地平线Horizon芯片部署、TensorRT部署，部署工程难度小、模型推理速度快】](https://blog.csdn.net/zhangqian_1/article/details/139239964)
 
 
