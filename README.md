@@ -43,7 +43,7 @@ int main(int argc, char **argv)
 
 冒号“:”前的数子是coco的80类对应的类别，后面的浮点数是目标得分。（类别:得分）
 
-![images](https://github.com/cqu20160901/yolov10_rknn_Cplusplus/blob/main/test_result.jpg)
+![images](https://github.com/cqu20160901/yolov10_rknn_Cplusplus/blob/main/examples/rknn_yolov10_demo_open/test_result.jpg)
 
 
 把板端模型推理和后处理时耗也附上，供参考，使用的芯片rk3588，模型输入640x640，检测类别80类。
